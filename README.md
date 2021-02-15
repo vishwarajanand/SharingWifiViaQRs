@@ -5,7 +5,7 @@ A quick and easy way to share wifi access using funky QR Code with your own logo
 
 # Preview
 
-![Preview](https://github.com/vishwarajanand/SharingWifiViaQRs/blob/master/demo.png?raw=true "Preview")
+![Preview](https://github.com/vishwarajanand/SharingWifiViaQRs/blob/main/demo.png?raw=true "Preview")
 
 
 # Demo
