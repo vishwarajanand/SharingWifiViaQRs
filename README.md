@@ -3,9 +3,18 @@
 A quick and easy way to share wifi access using funky QR Code.
 
 
-# Preview
+# Demos
 
-![Preview](https://github.com/vishwarajanand/SharingWifiViaQRs/blob/main/demo.png?raw=true "Preview")
+## Insecure sharing
+![Preview](https://github.com/vishwarajanand/SharingWifiViaQRs/blob/main/demos/demo_insecure_sharing.png?raw=true "Preview")
+
+
+## Hidden password sharing
+![Preview](https://github.com/vishwarajanand/SharingWifiViaQRs/blob/main/demos/demo_hidden_wifi.png?raw=true "Preview")
+
+
+## Open Wifi sharing
+![Preview](https://github.com/vishwarajanand/SharingWifiViaQRs/blob/main/demos/demo_open_wifi.png?raw=true "Preview")
 
 
 # Demo
