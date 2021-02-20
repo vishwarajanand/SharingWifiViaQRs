@@ -1,6 +1,6 @@
 # Sharing Wifi Via QR Codes
 
-A quick and easy way to share wifi access using funky QR Code with your own logo.
+A quick and easy way to share wifi access using funky QR Code.
 
 
 # Preview
